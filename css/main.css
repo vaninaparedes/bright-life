@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,300&family=Zen+Old+Mincho:wght@700&display=swap");
+* {
+  margin: 0;
+  padding: 0; }
+
+.titulo {
+  color: #FF577F; }
+
+.subtitulo {
+  color: #FF884B; }
+
+.texto {
+  font-family: "Roboto", sans-serif; }
+
+.imag {
+  width: 100%; }
+
+.tituloGrilla {
+  color: #FF884B; }
+
+.fototravel {
+  width: 20%;
+  display: row; }
+
+.travel {
+  display: row; }
+
+.boldwhite {
+  color: #fcfbf9; }
+
+.padding {
+  padding: 1em; }
+
+footer {
+  list-style: none;
+  display: flex;
+  background-color: #FF577F;
+  padding: 1em; }
+
+.menu {
+  width: 15%; }
